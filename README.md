@@ -32,7 +32,7 @@ After this, you can download the repo and run the python file.
 
 Results:
 
-I had 1287 errors, when loading the csv into mongodb. 
+I had 1287 errors, when loading the csv into mongodb. So that may change our results. 
 
 How many Twitter users are in the database?
 659178
